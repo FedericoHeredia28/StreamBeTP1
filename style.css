@@ -1,0 +1,44 @@
+body {
+    background: #1A9694;
+    background: -webkit-linear-gradient(to right, #E50A0A, #F7E90E);
+    background: linear-gradient(to bottom, #E50A0A, #F7E90E);
+
+}
+
+p {
+    font-size: 20px;
+    font-family: monospace;
+}
+
+img {
+    width: 500px;
+}
+
+h1 {
+    text-align: left;
+    font-family: sans-serif;
+}
+
+.imagenCentrada {
+    text-align: center;
+}
+
+ol {
+    font-size: 20px;
+}
+
+a {
+    color: rgb(87, 79, 79);
+}
+
+button {
+    background-color: #0A9EE5;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #0D2632;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
